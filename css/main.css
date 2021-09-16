@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background:#92A8D1;
+}
+
+table{
+    margin:0 auto;
+}
+
+#status{
+    color: black;
+    font-weight:bold;
+}
+
